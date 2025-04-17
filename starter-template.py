@@ -7,19 +7,25 @@ class Pet:
         self.tricks = []
 
     def eat(self):
+        pass
         # TODO
 
     def sleep(self):
+        pass
         # TODO
 
     def play(self):
+        pass
         # TODO
 
     def train(self, trick):
+        pass
         # TODO
 
     def show_tricks(self):
+        pass
         # TODO
 
     def get_status(self):
+        pass
         # TODO
